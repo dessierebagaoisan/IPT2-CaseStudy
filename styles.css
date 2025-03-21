@@ -83,9 +83,9 @@ a:hover{
 .homepage{
     overflow-y: scroll;
     margin: 0;
-    background-image: url('home.jfif'); 
     background-repeat: no-repeat; 
     background-size: contain;
+    background-image: url('home.jfif');
    
 
 }
@@ -111,7 +111,7 @@ a:hover{
 
  #welcome{
     margin: 0;
-    font-size: 24px;
+    font-size: 35px;
     color: #3B4A2E;
     font-family: 'Montserrat';
     padding-bottom: 6px;
@@ -122,7 +122,7 @@ a:hover{
     margin: 0;
     color: #3B4A2E;
     font-family: 'Playfair';
-    font-size: 78px;
+    font-size: 95px;
     font-weight: bold;
     line-height: 0.6;
     position: relative;
@@ -131,7 +131,7 @@ a:hover{
 }
  #tagline{
     margin: 0;
-    font-size: 18px;
+    font-size: 19px;
     color: #3B4A2E;
     font-family: 'Playfair';
     padding-top: 6px;
@@ -139,7 +139,7 @@ a:hover{
 }
 #view-recipe{
     position: absolute;
-    top: 180px;
+    top: 200px;
     left: 40px;
     padding: 7px 40px 7px 15px;
     border-radius: 15px;
@@ -157,7 +157,7 @@ a:hover{
 #arrowHome{
     position: relative;
     left: 150px;
-    top: 32px;
+    top: 18px;
 }
 
 .button-home:hover #arrowHome {
